@@ -1,0 +1,75 @@
+aside{
+    width: 35%;
+    border: 2px solid blueviolet;
+    padding: 15px;
+    box-shadow: 5px 10px #888888;
+}
+section{
+    display: flex;
+}
+.exposicao{
+    width: 910px;
+    margin: 20px;
+}
+.cabecalho{
+    border: 1px solid blueviolet;
+    box-shadow: 5px 10px #888888;
+    margin-left: 20px;
+}
+.borda-cabecalho{
+    border: 1px solid blueviolet;
+    box-shadow: 5px 10px #888888;
+    text-align: center;
+
+}
+.cards{
+    display: flex;
+}
+.card{
+    margin-left: 20px;
+    margin-right: 2px;
+    margin-top: 13px;
+    width: 90%;
+}
+.perfil{
+    width: 460px;
+    margin: 12px;
+    border: dashed 1px blueviolet;
+}
+
+.bolo{
+    width: 18px;
+    height: 20px;
+    margin-right: 3px;
+}
+.aniversario{
+    display: flex;
+}
+.Iportugues{
+    width: 18px;
+    height: 20px;
+    margin-right: 3px;
+}
+.portugues{
+    display: flex;
+}
+.ieua{
+    width: 18px;
+    height: 20px;
+    margin-right: 3px;
+}
+.ingles{
+    display: flex;
+}
+footer{
+    margin-top: 34px;
+    text-align: center;
+    border: 1px dashed blueviolet;
+    background-color: ligth powderblue;
+    padding: 5px;
+    padding-top: 5px;
+}
+.img-final{
+    width: 10%;
+    ;
+}
